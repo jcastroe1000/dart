@@ -48,9 +48,8 @@ main() {
 
   Map<String, dynamic> capitan = new Map();
   capitan.addAll({
-    'nombre':'Steve';
-    'poder':'Soportar Dolor';
-    'nivel':9500;
+    'nombre': 'Steve',
+    'poder': 'Soportar Dolor',
+    'nivel': 9500,
   });
 }
-
